@@ -1,12 +1,12 @@
-# Mekanism for Minecraft 1.7.10 #
+# Mekanism for Gregtech 5 Unofficial #
 
-[**Official Website**](http://aidancbrady.com/mekanism/)
+[**Official Website for Original**](http://aidancbrady.com/mekanism/)
 
-Source code.  More information can be found on the [mod's forum post](http://www.minecraftforum.net/topic/1361286-164-mekanism-557-universal-cable-dynamic-tanks-wind-power/).
+Source code for original.  More information can be found on the [mod's original forum post](http://www.minecraftforum.net/topic/1361286-164-mekanism-557-universal-cable-dynamic-tanks-wind-power/).
 
 # About #
 
-Mekanism is a Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, armor, and weapons.
+Mekanism is a Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, armor, and weapons. And this mod "Mekanism for Greg"(or MFG for short) is a fork for the original add-on that adds compatability with gregtech 5 Unofficial.
 
 # Modpacks, websites, reviews, or anything else #
 
@@ -22,6 +22,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 **Copyright © 2016 Aidan Brady**
 
 # Developers & Credits #
+
+# MEKANISM #
 
 **Lead Developer:** aidancbrady
 
@@ -40,3 +42,9 @@ Thanks to _303 and skyboy for helping me with animated machine textures.
 Thanks to Mattredsox and Calclavia for helping me out with UE's electricity system.
 
 Last but not least, thanks to Alblaka, SirSengir, CovertJaguar, Calclavia and dan200 for their wonderful APIs and descriptive javadocs.
+
+
+# MFG #
+
+**DEVELOPER:** Tefyer
+
